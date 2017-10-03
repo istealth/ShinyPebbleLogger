@@ -9,3 +9,7 @@ http://forums.getpebble.com/discussion/24016/compass-and-or-accelerometer-loggin
 ##Screenshots
 ![ScreenShot](http://69.12.64.56/data/accelog.png)
 ![ScreenShot](http://69.12.64.56/data/accelog1.png)
+![ScreenShot](https://raw.github.com/istealth/ShinyPebbleLogger/master/accelog.png)
+![ScreenShot](https://raw.github.com/istealth/ShinyPebbleLogger/master/accelog1.png)
+
+
