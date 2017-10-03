@@ -6,7 +6,8 @@ and here:
 http://forums.getpebble.com/discussion/24016/compass-and-or-accelerometer-logging-compasslog-acc-log-for-users-developers 
 
 
-##Screenshots
+## Screenshots
+
 ![ScreenShot](https://raw.github.com/istealth/ShinyPebbleLogger/master/accelog.png)
 ![ScreenShot](https://raw.github.com/istealth/ShinyPebbleLogger/master/accelog1.png)
 
